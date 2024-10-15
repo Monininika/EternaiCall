@@ -1,0 +1,5 @@
+启动后端 -> api.py -> API
+command: fastapi run --port 50000
+
+本地上传音频测试 - 运行webui.py - Running on local URL:  http://127.0.0.1:7860 (URL可能会不一样，具体看终端信息)
+command: python webui.py
